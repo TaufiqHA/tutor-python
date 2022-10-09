@@ -8,3 +8,7 @@ else:
     print("taufiq hidayah abdullah")
 
 # ini adalah comment
+
+"""
+ini adalah comment
+"""
