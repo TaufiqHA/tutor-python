@@ -1,6 +1,5 @@
 # tipe data : angka satuan (integer)
 from ctypes import c_double, c_char, c_long
-from ctypes import c_double
 integer = 1
 print("data : ", integer)
 print("- bertipe : ", type(integer))
@@ -36,3 +35,4 @@ print("- bertipe : ", type(double))
 # char = c_char("taufiq")
 # print("data : ", char)
 # print("- bertipe : ", type(char))
+
