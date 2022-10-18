@@ -40,5 +40,5 @@ print("data : ", integer, ", type : ", type(integer))
 string = str(boolean)
 print("data : ", string, ", type : ", type(string))
 
-float = float(boolean)
-print("data : ", float, ", type : ", type(float))
+# float = float(boolean)
+# print("data : ", float, ", type : ", type(float))
